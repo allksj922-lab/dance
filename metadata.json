@@ -1,0 +1,6 @@
+{
+  "name": "모닝댄스",
+  "description": "매일 아침 새로운 신나는 댄스 음악으로 깨어나 춤추는 모닝 댄스 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

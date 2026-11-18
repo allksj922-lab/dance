@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">모닝댄스</string>
+    <string name="nav_today">오늘의 댄스</string>
+    <string name="nav_lineup">매일 라인업</string>
+    <string name="nav_alarm">모닝 알람</string>
+    <string name="notification_channel_playback">모닝댄스 음악 재생</string>
+    <string name="notification_channel_alarm">모닝댄스 기상 알람</string>
+    <string name="action_play">재생</string>
+    <string name="action_pause">일시정지</string>
+    <string name="action_stop">정지</string>
+    <string name="alarm_notification_title">일어날 시간! 오늘의 댄스 음악 도착</string>
+    <string name="alarm_notification_body">신나는 리듬에 맞춰 몸을 흔들며 아침을 깨워보세요.</string>
+</resources>
